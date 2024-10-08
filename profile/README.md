@@ -4,13 +4,15 @@ Netherlands Institute for Neuroscience
 The purpose of this page is to encourage software collaboration among the NIN and share resources with the rest of the neuroscience community.
 If you are a member of the NIN and have a Github account, please email the NIN data manager Chris van der Togt <mailto:c.vandertogt@nin.knaw.nl> or Alexander Heimel from your NIN email account and give your Github username. 
 
-Research Group Github Sites
+Research Group and associated Github Sites
 ---------------
 
 * [Roelfsema Group - Vision and Cognition](https://github.com/VisionandCognition)
-* [Heimel Group](https://github.com/heimel)
+* [Heimel Group - Circuits, Structure & Function](https://github.com/heimel)
+* [Levelt Group - Molecular Visual Plasticity](https://github.com/leveltlab)
+* [NINscope](https://github.com/ninscope)
 
-This is not intended to replace https://nin.nl/research/research-groups/.
+This is not intended to replace https://nin.nl/research/research-groups/. 
 
 Requesting Academic Access
 --------------------------
@@ -27,4 +29,6 @@ Log in and then go to https://github.com/account/organizations/new
 You can then apply for Academic status using instructions above.
 
 
-
+Maintainer
+----------
+This page is maintained by Alexander Heimel. Please email him for edits and additions.
