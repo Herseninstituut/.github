@@ -1,8 +1,8 @@
 Netherlands Institute for Neuroscience
 ======================================
 
-The purpose of this page is to encourage software collaboration among the NIN and share resources with the rest of the neuroscience community.
-If you are a member of the NIN and have a Github account, please email the NIN data manager Chris van der Togt <mailto:c.vandertogt@nin.knaw.nl> or Alexander Heimel from your NIN email account and give your Github username. 
+The purpose of this Github site is to encourage software collaboration among the NIN and share resources with the rest of the neuroscience community.
+If you are a member of the NIN and have a Github account, please email the NIN data manager Chris van der Togt <mailto:c.vandertogt@nin.knaw.nl> or Alexander Heimel from your NIN email account and give your Github username to get an invitation to become member. Once you are a member you can create your own github repositories under the umbrella of the Herseninstituut.
 
 Research Group and associated Github Sites
 ---------------
