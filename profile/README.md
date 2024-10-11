@@ -10,6 +10,7 @@ Research Group and associated Github Sites
 * [Roelfsema Group - Vision and Cognition](https://github.com/VisionandCognition)
 * [Heimel Group - Circuits, Structure & Function](https://github.com/heimel)
 * [Levelt Group - Molecular Visual Plasticity](https://github.com/leveltlab)
+* [Social Brain lab](https://github.com/sblnin)
 * [NINscope](https://github.com/ninscope)
 
 This is not intended to replace https://nin.nl/research/research-groups/. 
