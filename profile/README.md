@@ -1,7 +1,6 @@
 # Netherlands Institute for Neuroscience
 
-The purpose of this Github site is to encourage software collaboration within the [Netherlands Institute for Neuroscience] (https://nin.nl/) and share resources with the rest of the neuroscience community.
-If you are a member of the NIN and have a Github account, please email the NIN data manager Chris van der Togt or Alexander Heimel from your NIN email account and give your Github username to get an invitation to become member of Github Herseninstituut site.
+The purpose of this Github site is to encourage software collaboration within the [Netherlands Institute for Neuroscience](https://nin.nl/) and share resources with the rest of the neuroscience community.
 
 ## Research Group Github Sites
 
@@ -13,7 +12,11 @@ If you are a member of the NIN and have a Github account, please email the NIN d
 
 ## For NIN developers and scientists
 
-The Github Herseninstituut can host your repository at any stage of development. You can create a new repository here, fork your current project and continue here, or import your final code ready to publish and share. 
+The Github Herseninstituut can host your public or private repository at any stage of development. At Github Herseninstituut, you can create a new repository, fork your current project and continue, or import your final code ready to publish and share. 
+
+### Becoming a member of Github Herseninstituut
+
+If you are a member of the NIN and have a Github account, please email the NIN data manager Chris van der Togt or Alexander Heimel from your NIN email account and give your Github username to receive an invitation to become member of Github Herseninstituut site.
 
 ### Requesting a Github Academic account 
 
@@ -22,12 +25,11 @@ https://education.github.com/discount_requests/new
 
 ## For NIN group leaders
 
-Group repositories can be brought within the Github Hersensinstituut, or links can be made via a link to the group's existing Github site, e.g. [Vision and Cognition](https://github.com/VisionandCognition), or via a group repository here, e.g. [Social Brain lab](https://github.com/Herseninstituut/SBL_NIN).
+Group repositories can be brought within the Github Hersensinstituut, e.g. https://github.com/Herseninstituut/Acquipix, or links can be made via a link to the group's existing Github site, e.g. https://github.com/VisionandCognition, or via a group repository at Github Herseninstituut, e.g. https://github.com/Herseninstituut/SBL_NIN.
 
 ### Creating an Organization Account for your Group
-Log in and then go to https://github.com/account/organizations/new
-
-You can then apply for Academic status using instructions above.
+Log in and then go to https://github.com/account/organizations/new  
+You can then apply for Academic status using instructions given to NIN developers.
 
 ## Maintainer
 
