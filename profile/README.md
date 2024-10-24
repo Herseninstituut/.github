@@ -5,7 +5,7 @@ The purpose of this Github site is to encourage software collaboration within th
 ## Research Group Github Sites
 
 * [Roelfsema Group - Vision and Cognition](https://github.com/VisionandCognition)
-* [Heimel Group - Circuits, Structure & Function](https://github.com/heimel)
+* [Heimel Group - Circuits, Structure & Function](https://github.com/Herseninstituut/CSF_NIN)
 * [Levelt Group - Molecular Visual Plasticity](https://github.com/leveltlab)
 * [Gazzola/Keysers - Social Brain lab](https://github.com/Herseninstituut/SBL_NIN)
 * [NINscope](https://github.com/ninscope)
