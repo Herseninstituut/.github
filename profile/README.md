@@ -10,6 +10,7 @@ The purpose of this Github site is to encourage software collaboration within th
 * [Levelt - Molecular Visual Plasticity lab](https://github.com/leveltlab)
 * [Roelfsema Group - Vision and Cognition lab](https://github.com/VisionandCognition)
 * [NINscope](https://github.com/ninscope)
+* [Ephys wiki - Neuropixels information](http://ephyswiki.org)
 
 ## For NIN developers and scientists
 
