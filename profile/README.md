@@ -8,7 +8,8 @@ The purpose of this Github site is to encourage software collaboration within th
 * [Heimel - Circuits, Structure & Function lab](https://github.com/Herseninstituut/CSF_NIN)
 * [Kole - Axonal signalling lab](https://github.com/kolelab)
 * [Levelt - Molecular Visual Plasticity lab](https://github.com/leveltlab)
-* [Roelfsema Group - Vision and Cognition lab](https://github.com/VisionandCognition)
+* [Roelfsema - Vision and Cognition lab](https://github.com/VisionandCognition)
+* [Siclari - Sleep Dreams Lab](https://github.com/SleepDreamsLab)
 * [NINscope](https://github.com/ninscope)
 * [Ephys wiki - Neuropixels information](http://ephyswiki.org)
 
